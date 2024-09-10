@@ -118,10 +118,7 @@
 - [视频教程](http://www.jpress.io/article/category/course)
 - [常见问题](./doc/faq.md)
 - [JPressSchool-VIP会员](./doc/vip.md)
-
-## 微信交流群
-
-![](./doc/images/jpress-wechat-group.png)
+ 
 
 
 
